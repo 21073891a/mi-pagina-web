@@ -175,9 +175,9 @@ header{
     transition: transform .2s ease-in-out;
 
 }
-/* .show{
+.show{
     transform: translate(0);
-} */
+}
 .agregar-imagen{
     object-fit: cover;
     width: 60%;
